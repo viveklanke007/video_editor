@@ -1,0 +1,6 @@
+{
+  "name": "QuickCut AI - Smart Video Editor",
+  "description": "Turn raw video footage into polished, YouTube-ready videos with AI auto-editing, silence removal, filler word cleanup, auto zoom, smart captions, and one-click export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
